@@ -6,7 +6,7 @@
 
 |OFF|OFF|OFF|ON
 |:--:|:--:|:--:|:--:|
-|![ON](simulation/ON.png)|![OFF](simulation/OFF.png)|
+|![ON](https://github.com/sammy-9930/Emb-C/blob/main/documentation/act%201.1.JPG)|![OFF](https://github.com/sammy-9930/Emb-C/blob/main/documentation/act%201.2.JPG)|![OFF](https://github.com/sammy-9930/Emb-C/blob/main/documentation/act%201.3.JPG)|![OFF](https://github.com/sammy-9930/Emb-C/blob/main/documentation/act%201.4.JPG)
 
 #### CI and Code Quality
 
