@@ -1,12 +1,15 @@
-# Embedded C Programming Examples with Continuous Integration and Code Quality
+# Embedded C Case Study
 
-# LED Blinking 
+# Problem Statement 
 
-## Activity 1 
+1. Button Sensor will check the passenger is seated or not
+2. Temperature sensor works as 
+3. Display CDD-CRO will give the temperature value by showing PWM
+4. Led Actuator shows the driver is seated.
+5. Heater will check the heater button is ON.
+6. USART is used to display temperature on serial monitor 
 
-|ON|OFF|OFF|OFF
-|:--:|:--:|:--:|:--:|
-|![ON](https://github.com/sammy-9930/Emb-C/blob/main/documentation/act%201.1.JPG)|![OFF](https://github.com/sammy-9930/Emb-C/blob/main/documentation/act%201.2.JPG)|![OFF](https://github.com/sammy-9930/Emb-C/blob/main/documentation/act%201.3.JPG)|![OFF](https://github.com/sammy-9930/Emb-C/blob/main/documentation/act%201.4.JPG)
+
 
 #### CI and Code Quality
 
