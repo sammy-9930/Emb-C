@@ -24,7 +24,7 @@
  * 
  * @param ubrr_value Baud rate
  */
-void initUSART(uint16_t ubrr_value);
+void USARTInit(uint16_t ubrr_value);
 /**
  * @brief To write data through serial transmission
  * 
