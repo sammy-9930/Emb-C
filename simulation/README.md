@@ -1,4 +1,4 @@
-# Blinky Project In Action
+# HeaterController Project In Action
 
 |ON|OFF|
 |:--:|:--:|
