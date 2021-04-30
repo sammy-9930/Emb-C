@@ -11,9 +11,9 @@ void initUSART(uint16_t ubrr_value)
 
 void WriteCharUSART(char data)
 {
-    while(WaitForTransmissionReady)
+    while(!(UCSR0A&(1<<UDRE0)))
     {
         //Do nothing
     }
-    ReadOrWriteData=data;
+    UDR0=data;
 }
