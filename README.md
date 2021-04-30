@@ -19,10 +19,10 @@ ADC Value (Temp Sensor)| Output PWM
 
 
 
-#### CI and Code Quality
+#### CI 
 
 |Build|Cppcheck|
-|:--:|:--:|:--:|
+|:--:|:--:|
 |[![Compile-Linux](https://github.com/Bharathgopal/Emb-C/actions/workflows/Compile.yml/badge.svg)](https://github.com/Bharathgopal/Emb-C/actions/workflows/Compile.yml)|[![Cppcheck](https://github.com/Bharathgopal/Emb-C/actions/workflows/CodeQulaity.yml/badge.svg)](https://github.com/Bharathgopal/Emb-C/actions/workflows/CodeQulaity.yml)|
 
 ## Wiki Documentation
