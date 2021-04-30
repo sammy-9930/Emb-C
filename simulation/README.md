@@ -2,7 +2,7 @@
 
 |ON|OFF|
 |:--:|:--:|
-|\image html ON.png||
+|![on](https://github.com/sammy-9930/Emb-C/blob/main/simulation/heateron.png)|![off](https://github.com/sammy-9930/Emb-C/blob/main/simulation/heateroff.png)|
 
 ## Code 
 ```
