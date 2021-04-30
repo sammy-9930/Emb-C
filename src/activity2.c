@@ -6,7 +6,7 @@ void initADC()
     ADCSRA = (1<<ADEN)|(7<<ADPS0);
 }
 
-uint16_t ReadADC(uint8_t select_channel)
+uint16_t ReadADC(uint8_t ch)
 {
     ADMUX &= 0xf8;
     ch = ch&0b00000111;
