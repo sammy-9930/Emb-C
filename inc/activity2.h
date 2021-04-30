@@ -19,14 +19,7 @@
  * @note delay header file
  */
 #include <util/delay.h>
-#define RefToVcc (REFS0)
-#define EnableADC (ADEN)
-#define SetFCPU (ADPS0)
-#define MuxReg (ADMUX)
-#define CntrlReg (ADCSRA)
-#define StrtConv (ADSC)
-#define ADCInterruptFlag (ADIF)
-#define AtoDvalue (ADC)
+
 /**
  * @brief Initalising for ADC conversion
  * 
@@ -38,5 +31,5 @@ void initADC();
  * @param select_channel selects the channel(port) to connect for ADC conversion 
  * @return uint16_t 
  */
-uint16_t ReadADC(uint8_t select_channel);
+uint16_t ReadADC(uint8_t ch);
 #endif // ACTIVITY2_H_INCLUDED
