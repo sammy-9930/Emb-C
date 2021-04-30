@@ -22,10 +22,7 @@
 #define PrescaleTo64 (TCCR1B|=(1<<WGM12)|(1<<CS11)|(1<<CS10))
 #define SetPWMoutputPin (DDRB|=(1<<PB1))
 #define PWMout (OCR1A)
-#define Pwm20percent (205)
-#define Pwm40percent (410)
-#define Pwm70percent (717)
-#define Pwm95percent (973)
+#define DUTY_CYCLE(Percent) (1024*Percent/100)
 
 /**
  * @brief Initalising for PWM
