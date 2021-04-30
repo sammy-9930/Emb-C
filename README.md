@@ -23,7 +23,7 @@ ADC Value (Temp Sensor)| Output PWM
 
 |Build|Cppcheck|
 |:--:|:--:|
-|[![Compile-Linux](https://github.com/Bharathgopal/Emb-C/actions/workflows/Compile.yml/badge.svg)](https://github.com/Bharathgopal/Emb-C/actions/workflows/Compile.yml)|[![Cppcheck]([![Cppcheck](https://github.com/sammy-9930/Emb-C/actions/workflows/CodeQulaity.yml/badge.svg)](https://github.com/sammy-9930/Emb-C/actions/workflows/CodeQulaity.yml))|
+|[![Compile-Linux]([![Compile-Linux](https://github.com/sammy-9930/Emb-C/actions/workflows/compile.yml/badge.svg)](https://github.com/sammy-9930/Emb-C/actions/workflows/compile.yml)|[![Cppcheck]([![Cppcheck](https://github.com/sammy-9930/Emb-C/actions/workflows/CodeQulaity.yml/badge.svg)](https://github.com/sammy-9930/Emb-C/actions/workflows/CodeQulaity.yml)|
 
 ## Wiki Documentation
 * System [SETUP](https://github.com/Bharathgopal/Emb-C/wiki)
