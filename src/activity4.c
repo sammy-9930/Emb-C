@@ -1,6 +1,6 @@
 #include "activity4.h"
 
-void initUSART(uint16_t ubrr_value)
+void USARTInit(uint16_t ubrr_value)
 {
     UBRR0L=ubrr_value;
     UBRR0H=(ubrr_value>>8)&0x00ff;
