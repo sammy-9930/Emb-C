@@ -17,7 +17,7 @@ int main()
 {
     initialize_pins();
     initADC();
-    initPWM();
+    initializePWM();
     USARTInit(103);
     uint16_t temp;
     char disp_val;
