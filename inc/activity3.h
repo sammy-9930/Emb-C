@@ -28,7 +28,7 @@
  * @brief Initalising for PWM
  * 
  */
-void initPWM();
+void initializePWM();
 /**
  * @brief to set PWM output depending on input
  * 
