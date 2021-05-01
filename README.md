@@ -27,9 +27,9 @@ ADC Value (Temp Sensor)| Output PWM
 
 ## ACTIVITY IN ACTION 
 ## ON
-[heateron](https://github.com/sammy-9930/Emb-C/blob/main/documentation/heateron.JPG)
+![heateron](https://github.com/sammy-9930/Emb-C/blob/main/documentation/heateron.JPG)
 ## OFF
-[heateroff](https://github.com/sammy-9930/Emb-C/blob/main/documentation/heateroff.JPG)
+![heateroff](https://github.com/sammy-9930/Emb-C/blob/main/documentation/heateroff.JPG)
 
 
 
